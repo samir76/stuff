@@ -1,0 +1,4 @@
+baseURL = 'https://samir76.github.io/stuff/'
+languageCode = 'en-us'
+title = 'My Blog'
+theme = 'ananke'
